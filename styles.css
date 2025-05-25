@@ -21,6 +21,19 @@ header {
   align-items: center;
 }
 
+.repositorio {
+  text-align: center;
+  margin: 20px;
+  padding: 40px;
+  font-size: 2rem;
+}
+#btn-repositorio {
+  border-radius: 10px;
+  background-color: yellow;
+  color: black;
+  border: none;
+}
+
 #carouselExampleDark {
   text-align: center;
   align-items: center;
